@@ -6,7 +6,7 @@ Assistant Professor
 Department of Linguistics  
 University of Oregon_**
 
-_This page includes important datasets and other related material for the Learner Corpus Workshop at SLRF 2019._
+_This page includes important datasets and other related material for the Learner Corpus Workshop at SLRF 2019. To download the accompanying powerpoint presentation, [click here](https://kristopherkyle.github.io/LCR_SLRF_2019/data/SLRF_2019_Workshop_Kyle_V1.pdf)_.
 
 ### Learner Corpus
 The learner corpus in this workshop is a sample of the written section of the <a href="http://language.sakura.ne.jp/icnale/" target="_blank">ICNALE corpus</a> (Ishikawa, 2013), which is a cross-sectional learner corpus with a substantial amount of participant metadata.
@@ -22,6 +22,8 @@ The sample compiled for this workshop (ICNALE 500) includes both writing samples
 All linguistic complexity indices were computed by one of three tools that are freely available on [www.linguisticanalysistools.org](https://www.linguisticanalysistools.org), namely [TAALES](https://www.linguisticanalysistools.org/taales.html), [TAALED](https://www.linguisticanalysistools.org/taaled.html), and [TAASSC](https://www.linguisticanalysistools.org/taassc.html). Full descriptions of these tools can be found in the documents on their related pages and in a few [published papers](http://www.kristopherkyle.com/publicationsgrants.html). A small (but useful!) sample of these indices are briefly described below.
 
 To download a spreadsheet that includes the ICNALE 500 metadata and sores for each of the indices, [click here](https://kristopherkyle.github.io/LCR_SLRF_2019/data/ICNALE_500_Analyzed.csv.zip)
+
+To download a very simple R script with the sample analysis, [click here](https://kristopherkyle.github.io/LCR_SLRF_2019/data/Freq_analysis.r)
 
 #### Measuring Lexical Sophistication ([TAALES](https://www.linguisticanalysistools.org/taales.html))
 The Tool for the Automatic Analysis of Lexical Sophistication (TAALES) measures over 400 indices related to lexical sophistication (i.e., the relative difficulty of learning and/or using a particular word, see also the related definition of Read (2000)). It is our stance that lexical sophistication is a multifaceted construct and should be measured as such (see, e.g., Eguchi & Kyle, under review; Kim, Crossley, & Kyle, 2018, Kyle & Crossley, 2015; Kyle, Crossley, & Berger, 2018, inter alia). Below are brief descriptions of indices that represent a few of these facets.
