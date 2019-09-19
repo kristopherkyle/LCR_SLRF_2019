@@ -17,7 +17,7 @@ All linguistic complexity indices were computed by one of three tools that are f
 
 To download a spreadsheet that includes the ICNALE 500 metadata and sores for each of the indices, [click here](https://kristopherkyle.github.io/LCR_SLRF_2019/data/ICNALE_500_Analyzed.csv.zip)
 
-#### Measuring Lexical Sophistication (TAALES)
+#### Measuring Lexical Sophistication ([TAALES](https://www.linguisticanalysistools.org/taales.html))
 The Tool for the Automatic Analysis of Lexical Sophistication (TAALES) measures over 400 indices related to lexical sophistication (i.e., the relative difficulty of learning and/or using a particular word, see also the related definition of Read (2000)). It is our stance that lexical sophistication is a multifaceted construct and should be measured as such (see, e.g., Eguchi & Kyle, under review; Kim, Crossley, & Kyle, 2018, Kyle & Crossley, 2015; Kyle, Crossley, & Berger, 2018, inter alia). Below are brief descriptions of indices that represent a few of these facets.
 
 ##### Frequency
@@ -35,7 +35,7 @@ A related way to look at lexical sophistication is to consider listeners' percep
 
 [Click here](https://kristopherkyle.github.io/LCR_SLRF_2019/data/TAALES_Diagnostic.zip) to download a version of the ICNALE 500 corpus that includes index scores for each word in each text.
 
-#### Measuring Lexical Diversity (TAALED)
+#### Measuring Lexical Diversity ([TAALED](https://www.linguisticanalysistools.org/taaled.html))
 Lexical diversity refers to the amount of lexical variation in a text. The working hypothesis is that language users with a larger vocabulary will produce texts with more diverse lexical items (given a particular task.  Accordingly, we would expect more proficient language users to produce more lexically diverse texts.
 
 The simplest index of lexical diversity is the type-token ratio (TTR), which is calculated as the number of types (unique words) in a text divided by the number of tokens (running words) in a text. One important issue with the type-token ratio (and other related indices such as Guiraud's index) is that it is inherently related to text length. Longer texts will earn lower diversity scores than shorter texts. Because of this issue, in order to compare diversity scores in a set of texts, the length of the text must be held constant (which means losing data) OR a text-independent measure must be used.
@@ -46,7 +46,7 @@ In this workshop, we will work with moving average type-token ratio (MATTR). MAT
 
 [Click here](https://kristopherkyle.github.io/LCR_SLRF_2019/data/TAALED_results_diagnostic.zip) to download a version of the ICNALE 500 corpus that includes lemmatized type and token lists for each text.
 
-#### Measuring Syntactic Complexity (TAASSC)
+#### Measuring Syntactic Complexity ([TAASSC](https://www.linguisticanalysistools.org/taassc.html))
 The measurement of syntactic complexity has a long and storied history in SLA (e.g., Larsen-Freeman, 1978; Wolfe-Quintero et al., 1998; Ortega, 2003; Lu, 2010; Biber et al., 2011; Kyle, 2016). In this workshop we will briefly look at two methods of assessing complexity (noun phrase complexity and verb argument construction characteristics.)
 
 ##### Noun phrase complexity
