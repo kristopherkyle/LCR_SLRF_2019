@@ -3,7 +3,7 @@
 This page includes important datasets and other related material for Kris' Learner Corpus Workshop at SLRF 2019 (September 19)
 
 ### Learner Corpus
-The learner corpus in this workshop is a sample of the written section of the [ICNALE corpus](http://language.sakura.ne.jp/icnale/) (Ishikawa, 2013), which is a cross-sectional learner corpus with a substantial amount of participant metadata.
+The learner corpus in this workshop is a sample of the written section of the <a href="http://language.sakura.ne.jp/icnale/" target="_blank">ICNALE corpus</a> (Ishikawa, 2013), which is a cross-sectional learner corpus with a substantial amount of participant metadata.
 
 ICNALE includes writing samples from 500 L2 learners of English. During corpus collection, each participant wrote two argumentative essays (one in relation to smoking in public places and another in relation to whether university students should get part time jobs). Participants also took a [Vocabulary Size Test](https://www.lextutor.ca/tests/vst/index.php?mode=test) (VST; a passive vocabulary size test) and reported standardized language proficiency test scores (e.g., TOEFL, TOEIC, IELTS, etc.), which were converted to CEFR levels.
 
@@ -24,4 +24,3 @@ The Tool for the Automatic Analysis of Lexical Sophistication (TAALES) measures 
 Reference corpus frequency is a time-tested method of measuring how sophisticated a word is (see Laufer, 1994; Laufer & Nation, 1995, inter alia). Of course, the corpus from whence frequency figures are derived will likely have an important impact on how well they measure sophistication in a particular language use domain.
 
 Today, we will look at indices that consider content words (nouns, verbs, adjectives, and most adverbs) from a corpus of sitcom and movie subtitles (SUBTLEXus; Brysbaert & New, 2009) and from the magazine section of the Corpus of Contemporary American English (COCA; Davies, 2010). Each index is calculated using logarithmically transformed frequency figures, which helps account for the Zipfian distribution of frequency data.
-
