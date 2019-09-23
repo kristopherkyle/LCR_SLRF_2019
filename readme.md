@@ -6,7 +6,7 @@ Assistant Professor
 Department of Linguistics  
 University of Oregon_**
 
-_This page includes important datasets and other related material for the Learner Corpus Workshop at SLRF 2019. To download the accompanying powerpoint presentation, [click here](https://kristopherkyle.github.io/LCR_SLRF_2019/data/SLRF_2019_Workshop_Kyle_V1.pdf)_.
+_This page includes important datasets and other related material for the Learner Corpus Workshop at SLRF 2019. To download the accompanying powerpoint presentation, [click here](https://kristopherkyle.github.io/LCR_SLRF_2019/data/SLRF_2019_Workshop_Kyle_V2.pdf)_.
 
 ### Learner Corpus
 The learner corpus in this workshop is a sample of the written section of the <a href="http://language.sakura.ne.jp/icnale/" target="_blank">ICNALE corpus</a> (Ishikawa, 2013), which is a cross-sectional learner corpus with a substantial amount of participant metadata.
